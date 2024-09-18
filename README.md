@@ -6,3 +6,6 @@ User Registration: Create a new account with a username and password.
 Login System: Secure login functionality with password validation.
 Bank Balance Management: View, deposit, and withdraw funds from your account.
 Graphical User Interface: Intuitive and simple UI built with Swing for easy interaction.
+
+Login Page
+![image](https://github.com/user-attachments/assets/bec69056-576a-4e3e-92ac-916ffd14096c)
