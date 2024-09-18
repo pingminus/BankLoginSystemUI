@@ -7,5 +7,6 @@ Login System: Secure login functionality with password validation.
 Bank Balance Management: View, deposit, and withdraw funds from your account.
 Graphical User Interface: Intuitive and simple UI built with Swing for easy interaction.
 
-Login Page
-![image](https://github.com/user-attachments/assets/bec69056-576a-4e3e-92ac-916ffd14096c)
+![image](https://github.com/user-attachments/assets/62b7dc7b-d519-4ee1-9ae7-8331b0a80cb5)
+![image](https://github.com/user-attachments/assets/e2a8501a-2dce-4ffd-af7c-40e4703dfd61)
+
